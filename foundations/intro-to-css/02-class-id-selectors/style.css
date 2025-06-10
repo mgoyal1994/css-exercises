@@ -1,0 +1,15 @@
+.pink {
+    background-color: hsl(350, 100%, 88%); font-size: 30px; font-family:Verdana, DejaVu Sans, sans-serif;
+}
+
+.bold {
+    font-weight: 900; font-size: 45px;
+}
+
+#bluee{
+    color: #0000ff; font-size: 50px;
+}
+
+#greeen{
+    background-color: rgb(0, 180, 0); font-size: 40px; font-weight: 900;
+}
